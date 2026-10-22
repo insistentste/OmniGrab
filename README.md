@@ -7,9 +7,6 @@
 <a href="../../releases/latest">
   <img src="https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github" alt="Download latest release"/>
 </a>
-<a href="https://insistentste.github.io/OmniGrab/" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Preview-Open_UI-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Preview"/>
-</a>
 
 </div>
 
@@ -82,6 +79,21 @@ Built on top of the battle-tested `yt-dlp` and `ffmpeg` engines, wrapped in a mo
 **The download fails on some sites.** Platforms update their security constantly. We try to ship a fix within 48 hours of the platform change. Make sure you're on the latest version.
 
 **Is this legal?** Downloading media is legal for personal use in most jurisdictions. However, redistributing copyrighted content is illegal. Use responsibly.
+
+---
+
+<div align="center">
+
+### Want to see the UI before downloading?
+Check out the interactive preview in your browser.
+
+<a href="https://insistentste.github.io/OmniGrab/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Preview-Open_UI-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Preview"/>
+</a>
+
+</div>
+
+---
 
 ## License
 
