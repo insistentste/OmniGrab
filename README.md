@@ -7,7 +7,7 @@
 <a href="../../releases/latest">
   <img src="https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github" alt="Download latest release"/>
 </a>
-<a href="https://ТВОЙ_НИК.github.io/OmniGrab/" target="_blank">
+<a href="https://insistentste.github.io/OmniGrab/" target="_blank">
   <img src="https://img.shields.io/badge/Live_Preview-Open_UI-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Preview"/>
 </a>
 
